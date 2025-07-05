@@ -1,0 +1,2 @@
+# COGNIFYZ
+Data analysis projects
